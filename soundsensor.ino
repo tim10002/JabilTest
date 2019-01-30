@@ -20,5 +20,5 @@ void loop()
   
     Serial.println(sum);
     
-    delay(20);
+    delay(30);
 }
